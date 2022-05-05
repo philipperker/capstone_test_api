@@ -35,54 +35,6 @@ const example_nft_data = [
     token_url: "XXX-4",
     image: "https://gateway.pinata.cloud/ipfs/QmVEXHS7MknXCq63kKKdNHKtXnbx48BEnb5ayeNtLsb6gN",
   },
-
-  {
-    created_by: "ppilihp",
-    contract_id: "XXX0x6ED09b7178e08203b7320784292d0F46A79D2Ff0",
-    token_id: "5",
-    token_url: "XXX-5",
-    image: "https://gateway.pinata.cloud/ipfs/QmdNRUd5i7qG2QsMfswnSP39WwMJdTXXsvxv1pzNVCtQwj",
-  },
-
-  {
-    created_by: "ppilihp",
-    contract_id: "XXX0x6ED09b7178e08203b7320784292d0F46A79D2Ff0",
-    token_id: "6",
-    token_url: "XXX-6",
-    image: "https://gateway.pinata.cloud/ipfs/QmQ4SAR1DNQBZauAAN5QbRv1AumjmGsCGEBqwMR6zUy44C",
-  },
-
-  {
-    created_by: "ppilihp",
-    contract_id: "XXX0x6ED09b7178e08203b7320784292d0F46A79D2Ff0",
-    token_id: "7",
-    token_url: "XXX-7",
-    image: "https://gateway.pinata.cloud/ipfs/Qmcnt2RbabRQJkk381KG21mSZB5jeZ9NchbYPbKcu8wfLf",
-  },
-
-  {
-    created_by: "ppilihp",
-    contract_id: "XXX0x6ED09b7178e08203b7320784292d0F46A79D2Ff0",
-    token_id: "8",
-    token_url: "XXX-8",
-    image: "https://gateway.pinata.cloud/ipfs/QmZ2TMiStcFcqc7qq7mkzstRvK2sPSV9pu1LUbMMHcJp4F",
-  },
-
-  {
-    created_by: "ppilihp",
-    contract_id: "XXX0x6ED09b7178e08203b7320784292d0F46A79D2Ff0",
-    token_id: "9",
-    token_url: "XXX-9",
-    image: "https://gateway.pinata.cloud/ipfs/QmVsdFYTUsTmTBZfc5QBzYf5wxZHax2hCjCL1KhdGEG5Cr",
-  },
-
-  {
-    created_by: "ppilihp",
-    contract_id: "XXX0x6ED09b7178e08203b7320784292d0F46A79D2Ff0",
-    token_id: "10",
-    token_url: "XXX-10",
-    image: "https://gateway.pinata.cloud/ipfs/QmXiokLC19Traorfc4AniXy1ikDVpPpXb3sUfLM5LDRxBb",
-  },
 ];
 
 //---------------------------------------------------
